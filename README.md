@@ -7,6 +7,6 @@
 + Alguns testes Lógicos
 + Uso de Switch-Case e while no "Desafio 10"
 
-|Linguagem|Programa|
-|--|--|
-|C|DevC++|
+|Linguagem|Programa|Versão|
+|--|--|--|
+|C|DevC++|5.11|
